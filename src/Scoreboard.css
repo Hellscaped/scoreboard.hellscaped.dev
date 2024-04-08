@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Seven Segment';
+    src: url('fonts/Seven Segment.ttf') format('truetype');
+  }
+
+.scoreboard {
+  font-family: 'Seven Segment', sans-serif;
+  font-size: 2rem;
+  color: #999;
+}
+
+.team {
+  display: inline-block;
+  width: 200px;
+  margin: 0 1rem;
+  padding: 1rem;
+  background-color: #222222;
+  border-radius: 5px;
+}
+
+.score {
+  font-size: 3rem;
+  color: #fff;
+}

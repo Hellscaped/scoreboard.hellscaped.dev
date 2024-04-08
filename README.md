@@ -1,0 +1,3 @@
+# Simple React scoreboard component...
+
+Feel free to snatch this... Made it cuz I was bored.
